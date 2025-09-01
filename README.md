@@ -95,9 +95,3 @@ aws cloudtrail update-trail --name <trail_name> --enable-log-file-validation
 * Bucket access is restricted to CloudTrail and your account.
 * Public access is fully blocked.
 * Versioning ensures logs cannot be overwritten accidentally.
-
-## License
-
-This repository is provided as-is for educational and compliance automation purposes.
-
-```
